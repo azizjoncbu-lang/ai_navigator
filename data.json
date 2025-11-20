@@ -1,0 +1,172 @@
+{
+  "departments": [
+    {
+      "id": "dept_01",
+      "name": "Axborot texnologiyalari departamenti",
+      "index": "35",
+      "floor": "5",
+      "room": "501",
+      "phone": "6131",
+      "description": "Markaziy bankning barcha axborot tizimlari, dasturiy ta'minot va IT infratuzilmasini boshqaradi.",
+      "has_subdivisions": true,
+      "subdivisions": [
+        {
+          "id": "subdiv_01_01",
+          "name": "Dasturiy ta'minot ishlab chiqish boshqarmasi",
+          "description": "Bank uchun maxsus dasturiy ta'minotlar yaratish va rivojlantirish",
+          "floor": "5",
+          "room": "502",
+          "phone": "6132",
+          "head": "Aliyev Sardor Karimovich"
+        },
+        {
+          "id": "subdiv_01_02",
+          "name": "Tizim administratorlari boshqarmasi",
+          "description": "Serverlar, tarmoqlar va infratuzilmani boshqarish va monitoring qilish",
+          "floor": "5",
+          "room": "503",
+          "phone": "6133",
+          "head": "Karimova Dilnoza Rustamovna"
+        },
+        {
+          "id": "subdiv_01_03",
+          "name": "Kiberxavfsizlik boshqarmasi",
+          "description": "Axborot xavfsizligi, himoya tizimlari va kiber tahdidlardan muhofaza",
+          "floor": "5",
+          "room": "504",
+          "phone": "6134",
+          "head": "Toshmatov Jamshid Anvarovich"
+        },
+        {
+          "id": "subdiv_01_04",
+          "name": "Texnik qo'llab-quvvatlash boshqarmasi",
+          "description": "Foydalanuvchilarga texnik yordam ko'rsatish va muammolarni hal qilish",
+          "floor": "5",
+          "room": "505",
+          "phone": "6135",
+          "head": "Ergashev Otabek Shavkatovich"
+        }
+      ]
+    },
+    {
+      "id": "dept_02",
+      "name": "Pul-kredit siyosati departamenti",
+      "index": "08",
+      "floor": "3",
+      "room": "301",
+      "phone": "5816",
+      "description": "Mamlakatning pul-kredit siyosatini ishlab chiqish va amalga oshirish, inflyatsiya darajasini nazorat qilish",
+      "has_subdivisions": true,
+      "subdivisions": [
+        {
+          "id": "subdiv_02_01",
+          "name": "Monetar siyosat tahlili boshqarmasi",
+          "description": "Pul massasi, foiz stavkalari va inflyatsiyani tahlil qilish",
+          "floor": "3",
+          "room": "302",
+          "phone": "5817",
+          "head": "Nazarov Jasur Abduvaliyevich"
+        },
+        {
+          "id": "subdiv_02_02",
+          "name": "Prognozlash va modellashtirish boshqarmasi",
+          "description": "Makroiqtisodiy prognozlar tayyorlash va ekonometrik modellar yaratish",
+          "floor": "3",
+          "room": "303",
+          "phone": "5818",
+          "head": "Yuldasheva Malika Davronovna"
+        }
+      ]
+    },
+    {
+      "id": "dept_03",
+      "name": "Statistika va tadqiqotlar departamenti",
+      "index": "11",
+      "floor": "4",
+      "room": "401",
+      "phone": "5836",
+      "description": "Moliyaviy va iqtisodiy statistik ma'lumotlarni to'plash, tahlil qilish va ilmiy tadqiqotlar olib borish",
+      "has_subdivisions": true,
+      "subdivisions": [
+        {
+          "id": "subdiv_03_01",
+          "name": "Statistik ma'lumotlar yig'ish boshqarmasi",
+          "description": "Bank va moliya tizimi statistikasini to'plash va qayta ishlash",
+          "floor": "4",
+          "room": "402",
+          "phone": "5837",
+          "head": "Raximov Bobur Zafarovich"
+        },
+        {
+          "id": "subdiv_03_02",
+          "name": "Ilmiy tadqiqotlar boshqarmasi",
+          "description": "Iqtisodiy tadqiqotlar olib borish va analitik hisobotlar tayyorlash",
+          "floor": "4",
+          "room": "403",
+          "phone": "5838",
+          "head": "Tursunova Sevara Muzaffarovna"
+        }
+      ]
+    },
+    {
+      "id": "dept_04",
+      "name": "Markaziy bank raisi",
+      "index": "01",
+      "floor": "7",
+      "room": "701",
+      "phone": "6010",
+      "description": "Markaziy bankning eng yuqori rahbariyat organi. Bank faoliyatini umumiy boshqaradi, strategik qarorlar qabul qiladi",
+      "has_subdivisions": false
+    },
+    {
+      "id": "dept_05",
+      "name": "Yuridik departamenti",
+      "index": "29",
+      "floor": "6",
+      "room": "601",
+      "phone": "6051",
+      "description": "Bankning barcha yuridik masalalari, shartnomalar, qonunchilikka muvofiqlik va sud ishlarini yuritish",
+      "has_subdivisions": false
+    },
+    {
+      "id": "dept_06",
+      "name": "Inson resurslarni boshqarish departamenti",
+      "index": "21",
+      "floor": "2",
+      "room": "201",
+      "phone": "5983",
+      "description": "Xodimlarni tanlash, o'qitish, rivojlantirish, ish haqini hisoblash va mehnat munosabatlarini tartibga solish",
+      "has_subdivisions": false
+    },
+    {
+      "id": "dept_07",
+      "name": "To'lov tizimlari departamenti",
+      "index": "38",
+      "floor": "3",
+      "room": "305",
+      "phone": "6398",
+      "description": "Milliy to'lov tizimlari, bank kartalari, elektron to'lovlar va interbank hisob-kitoblarini tashkil etish va rivojlantirish",
+      "has_subdivisions": true,
+      "subdivisions": [
+        {
+          "id": "subdiv_07_01",
+          "name": "Plastik kartalar boshqarmasi",
+          "description": "HUMO va boshqa to'lov kartalari tizimini boshqarish",
+          "floor": "3",
+          "room": "306",
+          "phone": "6399",
+          "head": "Mahmudov Aziz Shukurovich"
+        },
+        {
+          "id": "subdiv_07_02",
+          "name": "Elektron to'lovlar boshqarmasi",
+          "description": "Click, Payme va boshqa elektron to'lov tizimlarini nazorat qilish",
+          "floor": "3",
+          "room": "307",
+          "phone": "6400",
+          "head": "Israilova Nilufar Bahodirovna"
+        }
+      ]
+    }
+  ]
+}

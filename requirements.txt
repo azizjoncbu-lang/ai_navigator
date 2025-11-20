@@ -1,0 +1,7 @@
+python-telegram-bot
+chromadb
+openai
+python-dotenv
+langchain
+langchain-openai
+tiktoken
